@@ -18,7 +18,7 @@ const About: NextPage = () => {
           <img
              src="about.jpg" // Replace with your image path
              alt="Blog Illustration"
-             className="max-w-full h-auto rounded-lg shadow-lg" width={'500px'} height={'150px'}
+             className="max-w-full h-auto rounded-lg shadow-lg" width={'400px'} height={'150px'}
            />
         </div>
         {/* <div className="mt-10">
